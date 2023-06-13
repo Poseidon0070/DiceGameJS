@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    background-color: #3C2A21;
+}
+
+.huge{
+    font-size: 7rem;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.button{
+    height: 150px;
+    width: 150px;
+}
